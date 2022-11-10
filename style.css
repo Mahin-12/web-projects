@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    width: 450px;
+    height: 150px;
+}
+tr:hover{
+    background-color: brown;
+}
+td{
+    border: 2px solid darkcyan;
+    text-align: center;
+}
